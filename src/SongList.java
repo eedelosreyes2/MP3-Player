@@ -2,6 +2,7 @@ import java.util.Iterator;
 
 public class SongList {
 	private SongNode head;
+	@SuppressWarnings("unused")
 	private SongNode tail;
 
 	public SongList() {
